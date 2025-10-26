@@ -86,7 +86,7 @@ Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como 
 
 <img width="402" height="103" alt="image" src="https://github.com/user-attachments/assets/bd2ce7bd-657b-4308-8630-90ce0191640f" />
 
-- 🔸 **Principales dificultades en la aplicación de los contenidos**
+# **Principales dificultades en la aplicación de los contenidos:**
   
 ### **🧠 Traducción del pensamiento lógico a pasos concretos:**
 Al principio fue complicado convertir una idea o problema  en una secuencia de instrucciones precisas que un computador pueda entender.
@@ -103,7 +103,7 @@ A veces se confundían las estructuras o se utilizaban palabras reservadas incor
 ### **⚙️ Instalación y uso de entornos de programación:**
 La configuración inicial de compiladores o intérpretes (como C ) presentó algunas dificultades técnicas que debieron resolverse con apoyo o práctica adicional.
 
-- 💬 **Reflexión crítica de los aprendizajes de la unidad**
+# **Reflexión crítica de los aprendizajes de la unidad**
 
 En esta unidad entendí que programar no es solo escribir código, sino pensar con lógica y orden. Antes de comenzar a programar, es importante planear cada paso usando algoritmos o diagramas de flujo. Esto ayuda a encontrar errores más rápido y trabajar de forma más eficiente.
 
