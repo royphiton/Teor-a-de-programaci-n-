@@ -142,4 +142,5 @@ https://drive.google.com/file/d/1Z_zcQeeNtVEO4CovKDhOZhinbrl6AKjJ/view?usp=drive
 - Redactar textos con claridad y coherencia.  
 
 El contenido conceptual, las respuestas y reflexiones fueron **revisadas, adaptadas y comprendidas personalmente por el estudiante**, garantizando su autenticidad y aprendizaje.
-[⬅️ Regresar a index.mx ](../README.md)
+
+[⬅️ Regresar a index.md](../README.md)
