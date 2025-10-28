@@ -131,7 +131,7 @@ https://drive.google.com/file/d/1Z_zcQeeNtVEO4CovKDhOZhinbrl6AKjJ/view?usp=drive
 - 🧾 **Tarea:**  
   Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.
 
-
+https://drive.google.com/file/d/1qP1Az6xnO3qMfgy9hT_RSOjoLrtZbbGD/view?usp=sharing 
 
 -  **Declaracion de IA:**  
 
