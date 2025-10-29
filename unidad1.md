@@ -6,7 +6,7 @@
 
 - Los **algoritmos** son la base de toda programación. Representan una secuencia ordenada y lógica de pasos que permiten resolver un problema o ejecutar una tarea.
 
-<img width="589" height="301" alt="image" src="https://github.com/user-attachments/assets/8a138d25-a7d5-4679-b457-d7214e70c17f" />
+.A continuación incluyo un ejemplo de algoritmo trabajado en el lenguaje c, este algoritmo busca encontrar el promedio en base a 3 valores.
 
 - El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.  
 
