@@ -8,6 +8,8 @@
 
 .A continuación incluyo un ejemplo de algoritmo trabajado en el lenguaje c, este algoritmo busca encontrar el promedio en base a 3 valores.
 
+<img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/5bc99111-7987-447a-9bfe-065f974b81ef" />
+
 - El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.  
 
 <img width="465" height="405" alt="image" src="https://github.com/user-attachments/assets/696e873c-c610-411e-b1a5-94d4212c1f2a" />
