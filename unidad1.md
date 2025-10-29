@@ -5,7 +5,7 @@
 ## 💻 **Carrera de Computación**  
 ### 🧮 **Ciclo 1**  
 ### 📘 **Período Académico:** Unidad 1  
-### Teoria de la programacion
+### 💻 Materia = Teoria de la programacion 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
