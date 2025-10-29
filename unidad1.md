@@ -6,17 +6,22 @@
 
 - Los **algoritmos** son la base de toda programación. Representan una secuencia ordenada y lógica de pasos que permiten resolver un problema o ejecutar una tarea.
 
-.A continuación incluyo un ejemplo de algoritmo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores.
+.A continuación incluyo un ejemplo de algoritmo trabajado en el lenguace, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 1)
 
-<img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/5bc99111-7987-447a-9bfe-065f974b81ef" />
+<img width="888" height="461" alt="image" src="https://github.com/user-attachments/assets/fa3665c1-34a2-4669-815f-be80f0cf6335" /> ( imagen 1)
 
-- El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.  
+- El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.
+  
+1. A continuación incluyo un ejemplo de pseudocodigo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 2)
 
-<img width="465" height="405" alt="image" src="https://github.com/user-attachments/assets/696e873c-c610-411e-b1a5-94d4212c1f2a" />
+
+<img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/9ac30bbb-ad93-4d05-a2f3-372bcdd5ddc3" /> (imgen 2)
+
 
 - Por su parte, los **diagramas de flujo** son representaciones gráficas de los pasos de un algoritmo, utilizando figuras geométricas (óvalos, rectángulos, rombos, flechas) para visualizar el proceso y facilitar su comprensión.
+. incluyo ejemplo de diagrama de flujo trabajado en pseint (imagen 3)
 
-<img width="260" height="401" alt="image" src="https://github.com/user-attachments/assets/04a1c846-fe06-407d-a3b4-8515d09f0dd9" />
+  <img width="582" height="606" alt="image" src="https://github.com/user-attachments/assets/aeca8d05-14a3-4d81-8b9f-6ea2bffa7ff5" /> (imagen 3)
 
 
 ---
