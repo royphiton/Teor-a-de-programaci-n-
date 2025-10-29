@@ -1,4 +1,4 @@
-# unida 1
+# 🧩 Unidad 1
 
 ## 📚 **Contenidos de la Unidad**
 
@@ -113,14 +113,5 @@ https://drive.google.com/file/d/1Z_zcQeeNtVEO4CovKDhOZhinbrl6AKjJ/view?usp=drive
 
 https://drive.google.com/file/d/1qP1Az6xnO3qMfgy9hT_RSOjoLrtZbbGD/view?usp=sharing 
 
--  **Declaracion de IA:**  
-
-🧠 Este trabajo ha sido elaborado con el apoyo de herramientas de **Inteligencia Artificial generativa (IA)**, específicamente **ChatGPT (modelo GPT-5)**, utilizadas para:
-
-- Mejorar la presentación del documento en formato Markdown.  
-- Organizar y estructurar la información.  
-- Redactar textos con claridad y coherencia.  
-
-El contenido conceptual, las respuestas y reflexiones fueron **revisadas, adaptadas y comprendidas personalmente por el estudiante**, garantizando su autenticidad y aprendizaje.
 
 [inicio](index.md)
