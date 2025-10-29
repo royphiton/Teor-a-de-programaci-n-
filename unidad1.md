@@ -6,7 +6,7 @@
 
 - Los **algoritmos** son la base de toda programación. Representan una secuencia ordenada y lógica de pasos que permiten resolver un problema o ejecutar una tarea.
 
-.A continuación incluyo un ejemplo de algoritmo trabajado en el lenguaje c, este algoritmo busca encontrar el promedio en base a 3 valores.
+.A continuación incluyo un ejemplo de algoritmo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores.
 
 <img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/5bc99111-7987-447a-9bfe-065f974b81ef" />
 
