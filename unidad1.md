@@ -15,11 +15,13 @@
 1. A continuación incluyo un ejemplo de pseudocodigo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 2)
 
 
-<img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/9ac30bbb-ad93-4d05-a2f3-372bcdd5ddc3" /> (imgen 2)
+<img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/9ac30bbb-ad93-4d05-a2f3-372bcdd5ddc3" /> 
+(imgen 2)
 
 
 - Por su parte, los **diagramas de flujo** son representaciones gráficas de los pasos de un algoritmo, utilizando figuras geométricas (óvalos, rectángulos, rombos, flechas) para visualizar el proceso y facilitar su comprensión.
-. incluyo ejemplo de diagrama de flujo trabajado en pseint. (imagen 3)
+. incluyo ejemplo de diagrama de flujo trabajado en pseint.
+ (imagen 3)
 
   <img width="582" height="606" alt="image" src="https://github.com/user-attachments/assets/aeca8d05-14a3-4d81-8b9f-6ea2bffa7ff5" /> (imagen 3)
 
@@ -33,7 +35,7 @@ Esta metodología se utiliza en entornos educativos, donde los estudiantes puede
 Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como base para entender los principios de la programación estructurada.
 
 
-<img width="595" height="459" alt="image" src="https://github.com/user-attachments/assets/61a36945-1764-4ec4-9ccb-5d876a6aa4e2" />
+
 
 
 ---
