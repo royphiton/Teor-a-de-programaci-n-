@@ -19,7 +19,7 @@
 
 
 - Por su parte, los **diagramas de flujo** son representaciones gráficas de los pasos de un algoritmo, utilizando figuras geométricas (óvalos, rectángulos, rombos, flechas) para visualizar el proceso y facilitar su comprensión.
-. incluyo ejemplo de diagrama de flujo trabajado en pseint (imagen 3)
+. incluyo ejemplo de diagrama de flujo trabajado en pseint. (imagen 3)
 
   <img width="582" height="606" alt="image" src="https://github.com/user-attachments/assets/aeca8d05-14a3-4d81-8b9f-6ea2bffa7ff5" /> (imagen 3)
 
