@@ -32,7 +32,6 @@ Lenguajes y paradigmas
 ### 🧪 Unidad 3:
 Aplicaciones prácticas y algoritmos
 [unidad 3](unidad3.md)
-### 🧾 Conclusiones
-### 📚 Referencias
+
 ### 🤖 IA Regenerativa
 
