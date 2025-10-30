@@ -6,7 +6,7 @@
 
 - Los **algoritmos** son la base de toda programación. Representan una secuencia ordenada y lógica de pasos que permiten resolver un problema o ejecutar una tarea.
 
-.A continuación incluyo un ejemplo de algoritmo trabajado en el lenguace, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 1)
+. A continuación incluyo un ejemplo de algoritmo trabajado en el lenguace, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 1)
 
 <img width="888" height="461" alt="image" src="https://github.com/user-attachments/assets/fa3665c1-34a2-4669-815f-be80f0cf6335" /> 
 
@@ -14,7 +14,7 @@
 
 - El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.
   
-1. A continuación incluyo un ejemplo de pseudocodigo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 2)
+. Incluyo un ejemplo de pseudocodigo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 2)
 
 
 <img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/9ac30bbb-ad93-4d05-a2f3-372bcdd5ddc3" /> 
@@ -23,7 +23,7 @@
 
 
 - Por su parte, los **diagramas de flujo** son representaciones gráficas de los pasos de un algoritmo, utilizando figuras geométricas (óvalos, rectángulos, rombos, flechas) para visualizar el proceso y facilitar su comprensión.
-. incluyo ejemplo de diagrama de flujo trabajado en pseint. (imagen 3)
+. Incluyo ejemplo de diagrama de flujo trabajado en pseint. (imagen 3)
 
   <img width="582" height="606" alt="image" src="https://github.com/user-attachments/assets/aeca8d05-14a3-4d81-8b9f-6ea2bffa7ff5" />
 
@@ -62,7 +62,7 @@ Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como 
 
 ### **Lenguaje c:**
 
-. se muestran resultados del primer programa, trasladado al lenguaje c, en este programa ya se visualisa el
+. Se muestran resultados del primer programa, trasladado al lenguaje c, en este programa ya se visualisa el
 
 include <stdio.h>
 
