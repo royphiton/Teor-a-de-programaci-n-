@@ -53,37 +53,82 @@ Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como 
 
 ### **Pseudocódigo (PSeInt):**
 
-. A continuación se muestra un algoritmo en pseint, este busca el promedio mediante 3 variables, estas se suman y se dividen entre tres para buscar un promedio. (imagen 4)
+. A continuación se muestra un algoritmo en pseint, este busca el promedio mediante 3 variables, estas se suman y se dividen entre tres para buscar un promedio. (imagen 5) (Imagen 6)
 
 
 <img width="603" height="477" alt="image" src="https://github.com/user-attachments/assets/55492507-30c7-422e-87d8-2b5ee0696162" />
 
-(Imagen 4)
+(Imagen 5)
 
 ### **Lenguaje c:**
 
+. se muestran resultados del primer programa, trasladado al lenguaje c, en este programa ya se visualisa el
+
+include <stdio.h>
+
+int main() {
+    printf("Hola, mundo!\n");
+    return 0;
+
+(Imagen 6)
+
 <img width="677" height="617" alt="image" src="https://github.com/user-attachments/assets/a4678212-ac65-4cdb-a9a3-a8b7e02ed133" />
+
+(Imagen 6)
 
 ### **Respuesta:**
 
+. Se muestran evidencias de las respuestas dadas por los programas. (Imagen 7)
+
 <img width="465" height="138" alt="image" src="https://github.com/user-attachments/assets/cc3e20e6-bed1-4c69-8b02-6a6e3fcc87f0" />
 
+(Imagen 7)
 
 # **Ejemplo 2**
 
 ## **-Diseña un algoritmo que calcule el área de un triángulo conociendo su base y su altura.**
 
+Primero vamos a definir las variables como reales, luego despejamos la formula de la area la cual es
+base * altura/2 y finalmenre definimos la respuestaa. (Imagen 8)
+
 ### **Pseudocódigo (PSeInt):**
+
 
 <img width="672" height="374" alt="image" src="https://github.com/user-attachments/assets/6144b9e7-0056-4de4-9b9c-0779674949e6" />
 
+(Imagen 8)
+
 ### **Lenguaje c:**
+
+. Traducimos el primer programa a lenguaje c, (Imagen 9)
 
 <img width="714" height="516" alt="image" src="https://github.com/user-attachments/assets/67855365-7eda-4d4e-849c-42ee2d3b4fc5" />
 
+(Imagen 9)
+
+ 
 ### **Respuesta:**
 
+. se muestran evidencias de l trabajado en el lenguaje c. (Imagen 10)
+
 <img width="402" height="103" alt="image" src="https://github.com/user-attachments/assets/bd2ce7bd-657b-4308-8630-90ce0191640f" />
+
+(Imagen 10)
+
+## **pruebas de escritorio** 
+
+Prueba de escritorio del primer esjersicio. (Imagen 11)
+
+<img width="510" height="93" alt="image" src="https://github.com/user-attachments/assets/a410f89d-6c1b-431d-bd5d-f8b31cf3c183" />
+
+(Imagen 11)
+
+
+. Prueba de escritorio del segundo ejersicio. (Imagen 12)  
+
+<img width="431" height="80" alt="image" src="https://github.com/user-attachments/assets/34bed423-0de2-408b-840f-7187054f5909" />
+
+(Imagen 12)
 
 # **Principales dificultades en la aplicación de los contenidos:**
   
@@ -127,7 +172,7 @@ https://drive.google.com/file/d/1Z_zcQeeNtVEO4CovKDhOZhinbrl6AKjJ/view?usp=drive
  https://drive.google.com/file/d/1gkum-GpLxPqqhfgsB54940BoKSfZoOK7/view?usp=drive_link
   
 
-- 🧾 **Tarea:**  
+- 🧾 **Deber de informe sobre pseudocodigo y lenguiaje c:**  
   Del diseño del algoritmo con estructuras secuenciales a la construcción del programa.
 
 https://drive.google.com/file/d/1qP1Az6xnO3qMfgy9hT_RSOjoLrtZbbGD/view?usp=sharing 
