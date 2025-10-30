@@ -36,10 +36,11 @@
 
 La **programación por bloques** permite crear programas de manera visual, uniendo bloques que representan instrucciones.  
 Esta metodología se utiliza en entornos educativos, donde los estudiantes pueden comprender mejor la estructura lógica de un programa sin preocuparse por la sintaxis textual.  
-Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como base para entender los principios de la programación estructurada.
+Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como base para entender los principios de la programación estructurada. (imagen 4)
 
+<img width="824" height="403" alt="image" src="https://github.com/user-attachments/assets/fbe45774-e2a6-4c6b-9504-50cc1b4830eb" />
 
-
+(Imagen 4)
 
 
 ---
@@ -52,7 +53,12 @@ Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como 
 
 ### **Pseudocódigo (PSeInt):**
 
+. A continuación se muestra un algoritmo en pseint, este busca el promedio mediante 3 variables, estas se suman y se dividen entre tres para buscar un promedio. (imagen 4)
+
+
 <img width="603" height="477" alt="image" src="https://github.com/user-attachments/assets/55492507-30c7-422e-87d8-2b5ee0696162" />
+
+(Imagen 4)
 
 ### **Lenguaje c:**
 
