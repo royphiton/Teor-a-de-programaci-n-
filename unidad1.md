@@ -5,12 +5,14 @@
 ### 🔹 **Algoritmos, Pseudocódigo y Diagramas de Flujo**
 
 - Los **algoritmos** son la base de toda programación. Representan una secuencia ordenada y lógica de pasos que permiten resolver un problema o ejecutar una tarea.
-
+### Tipos: 
 - Algoritmos en Lenguaje C
+  
 El lenguaje C es un lenguaje de programación estructurado, muy usado en ingeniería y sistemas. Un algoritmo en C se escribe con una sintaxis precisa, usando estructuras como if, while, for, funciones, etc.
 
 
 - 🧾 Algoritmos en PSeInt (Pseudocódigo)
+  
 PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocódigo, una forma intermedia entre lenguaje natural y programación real. Es ideal para aprender lógica antes de programar.
 
 
