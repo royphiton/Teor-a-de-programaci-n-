@@ -18,8 +18,9 @@ PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocó
 
 . A continuación incluyo un ejemplo de algoritmo trabajado en el lenguage c, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 1)
 
+<div align="center">
 <img width="888" height="461" alt="image" src="https://github.com/user-attachments/assets/fa3665c1-34a2-4669-815f-be80f0cf6335" /> 
-
+</div>
 ( imagen 1)
 
 - El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.
