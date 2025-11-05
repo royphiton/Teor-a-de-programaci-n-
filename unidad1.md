@@ -65,9 +65,9 @@ Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como 
 
 . A continuación se muestra un algoritmo en pseint, este busca el promedio mediante 3 variables, estas se suman y se dividen entre tres para buscar un promedio. (imagen 5) (Imagen 6)
 
-
+<div align="center">
 <img width="603" height="477" alt="image" src="https://github.com/user-attachments/assets/55492507-30c7-422e-87d8-2b5ee0696162" />
-
+</div>
 (Imagen 5)
 
 ### **Lenguaje c:**
