@@ -4,16 +4,16 @@
 
 ### 🔹 **Algoritmos, Pseudocódigo y Diagramas de Flujo**
 
-- Los **algoritmos** son la base de toda programación. Representan una secuencia ordenada y lógica de pasos que permiten resolver un problema o ejecutar una tarea.
+- Los **algoritmos** son la base de toda programación. Representan una secuencia ordenada y lógica de pasos que permiten resolver un problema o ejecutar una tarea [1].
 ### Tipos: 
 - Algoritmos en Lenguaje C
   
-El lenguaje C es un lenguaje de programación estructurado, muy usado en ingeniería y sistemas. Un algoritmo en C se escribe con una sintaxis precisa, usando estructuras como if, while, for, funciones, etc.
+El lenguaje C es un lenguaje de programación estructurado, muy usado en ingeniería y sistemas. Un algoritmo en C se escribe con una sintaxis precisa, usando estructuras como if, while, for, funciones, etc, [2].
 
 
 - 🧾 Algoritmos en PSeInt (Pseudocódigo)
   
-PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocódigo, una forma intermedia entre lenguaje natural y programación real. Es ideal para aprender lógica antes de programar.
+PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocódigo, una forma intermedia entre lenguaje natural y programación real. Es ideal para aprender lógica antes de programar [3].
 
 
 🔹A continuación incluyo un ejemplo de algoritmo trabajado en el lenguage c. imagen 1
@@ -23,7 +23,7 @@ PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocó
 </div>
 
 
-- El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.
+- El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica [4].
   
 🔹Incluyo un ejemplo de pseudocodigo trabajado en pseint. imagen 2
 
@@ -32,7 +32,7 @@ PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocó
 </div>
 
 
-- Por su parte, los **diagramas de flujo** son representaciones gráficas de los pasos de un algoritmo, utilizando figuras geométricas (óvalos, rectángulos, rombos, flechas) para visualizar el proceso y facilitar su comprensión.
+- Por su parte, los **diagramas de flujo** son representaciones gráficas de los pasos de un algoritmo, utilizando figuras geométricas (óvalos, rectángulos, rombos, flechas) para visualizar el proceso y facilitar su comprensión [5].
 . Incluyo ejemplo de diagrama de flujo trabajado en pseint. imagen 3
   
 <div align="center">
@@ -46,7 +46,7 @@ PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocó
 
 La **programación por bloques** permite crear programas de manera visual, uniendo bloques que representan instrucciones.  
 Esta metodología se utiliza en entornos educativos, donde los estudiantes pueden comprender mejor la estructura lógica de un programa sin preocuparse por la sintaxis textual.  
-Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como base para entender los principios de la programación estructurada. imagen 4
+Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como base para entender los principios de la programación estructurada [6]. imagen 4
 
 <div align="center">
 <img width="824" height="403" alt="image" src="https://github.com/user-attachments/assets/fbe45774-e2a6-4c6b-9504-50cc1b4830eb" />
