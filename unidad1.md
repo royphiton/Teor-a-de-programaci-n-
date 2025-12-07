@@ -16,30 +16,28 @@ El lenguaje C es un lenguaje de programación estructurado, muy usado en ingenie
 PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocódigo, una forma intermedia entre lenguaje natural y programación real. Es ideal para aprender lógica antes de programar.
 
 
-. A continuación incluyo un ejemplo de algoritmo trabajado en el lenguage c, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 1)
+. A continuación incluyo un ejemplo de algoritmo trabajado en el lenguage c, este algoritmo busca encontrar el promedio en base a 3 valores. imagen 1
 
 <div align="center">
 <img width="888" height="461" alt="image" src="https://github.com/user-attachments/assets/fa3665c1-34a2-4669-815f-be80f0cf6335" /> 
 </div>
-( imagen 1)
+
 
 - El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.
   
-. Incluyo un ejemplo de pseudocodigo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores. (imagen 2)
+. Incluyo un ejemplo de pseudocodigo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores. imagen 2
 
 <div align="center">
 <img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/9ac30bbb-ad93-4d05-a2f3-372bcdd5ddc3" /> 
 </div>
-(imgen 2)
 
 
 - Por su parte, los **diagramas de flujo** son representaciones gráficas de los pasos de un algoritmo, utilizando figuras geométricas (óvalos, rectángulos, rombos, flechas) para visualizar el proceso y facilitar su comprensión.
-. Incluyo ejemplo de diagrama de flujo trabajado en pseint. (imagen 3)
+. Incluyo ejemplo de diagrama de flujo trabajado en pseint. imagen 3
   
 <div align="center">
 <img width="582" height="606" alt="image" src="https://github.com/user-attachments/assets/aeca8d05-14a3-4d81-8b9f-6ea2bffa7ff5" />
 </div>
-  (imagen 3)
 
 
 ---
@@ -48,12 +46,11 @@ PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocó
 
 La **programación por bloques** permite crear programas de manera visual, uniendo bloques que representan instrucciones.  
 Esta metodología se utiliza en entornos educativos, donde los estudiantes pueden comprender mejor la estructura lógica de un programa sin preocuparse por la sintaxis textual.  
-Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como base para entender los principios de la programación estructurada. (imagen 4)
+Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como base para entender los principios de la programación estructurada. imagen 4
 
 <div align="center">
 <img width="824" height="403" alt="image" src="https://github.com/user-attachments/assets/fbe45774-e2a6-4c6b-9504-50cc1b4830eb" />
 </div>
-(Imagen 4)
 
 
 ---
@@ -66,12 +63,11 @@ Además, promueve el aprendizaje intuitivo, fomenta la creatividad y sirve como 
 
 ### **Pseudocódigo (PSeInt):**
 
-. A continuación se muestra un algoritmo en pseint, este busca el promedio mediante 3 variables, estas se suman y se dividen entre tres para buscar un promedio. (imagen 5) (Imagen 6)
+. A continuación se muestra un algoritmo en pseint, este busca el promedio mediante 3 variables, estas se suman y se dividen entre tres para buscar un promedio. imagen 5
 
 <div align="center">
 <img width="603" height="477" alt="image" src="https://github.com/user-attachments/assets/55492507-30c7-422e-87d8-2b5ee0696162" />
 </div>
-(Imagen 5)
 
 ### **Lenguaje c:**
 
@@ -83,73 +79,67 @@ int main() {
     printf("Hola, mundo!\n");
     return 0;
 
-(Imagen 6)
+Imagen 6
 
 <div align="center">
 <img width="677" height="617" alt="image" src="https://github.com/user-attachments/assets/a4678212-ac65-4cdb-a9a3-a8b7e02ed133" />
 </div>
-(Imagen 6)
 
 ### **Respuesta:**
 
-. Se muestran evidencias de las respuestas dadas por los programas. (Imagen 7)
+. Se muestran evidencias de las respuestas dadas por los programas. Imagen 7
 
 <div align="center">
 <img width="465" height="138" alt="image" src="https://github.com/user-attachments/assets/cc3e20e6-bed1-4c69-8b02-6a6e3fcc87f0" />
 </div>
 
-(Imagen 7)
 
 # **Ejemplo 2**
 
 ## **-Diseña un algoritmo que calcule el área de un triángulo conociendo su base y su altura.**
 
 Primero vamos a definir las variables como reales, luego despejamos la formula de la area la cual es
-base * altura/2 y finalmenre definimos la respuestaa. (Imagen 8)
+base * altura/2 y finalmenre definimos la respuestaa. Imagen 8
 
 ### **Pseudocódigo (PSeInt):**
 
 <div align="center">
 <img width="672" height="374" alt="image" src="https://github.com/user-attachments/assets/6144b9e7-0056-4de4-9b9c-0779674949e6" />
 </div>
-(Imagen 8)
 
 ### **Lenguaje c:**
 
-. Traducimos el primer programa a lenguaje c, (Imagen 9)
+. Traducimos el primer programa a lenguaje c, Imagen 9
 
 <div align="center">
 <img width="714" height="516" alt="image" src="https://github.com/user-attachments/assets/67855365-7eda-4d4e-849c-42ee2d3b4fc5" />
 </div>
-(Imagen 9)
+
 
  
 ### **Respuesta:**
 
-. se muestran evidencias de l trabajado en el lenguaje c. (Imagen 10)
+. se muestran evidencias de l trabajado en el lenguaje c. Imagen 10
 
 <div align="center">
 <img width="402" height="103" alt="image" src="https://github.com/user-attachments/assets/bd2ce7bd-657b-4308-8630-90ce0191640f" />
 </div>
 
-(Imagen 10)
 
 ## **pruebas de escritorio** 
 
-Prueba de escritorio del primer esjersicio. (Imagen 11)
+Prueba de escritorio del primer esjersicio. Imagen 11
 
 <div align="center">
 <img width="510" height="93" alt="image" src="https://github.com/user-attachments/assets/a410f89d-6c1b-431d-bd5d-f8b31cf3c183" />
 </div>
-(Imagen 11)
 
 
-. Prueba de escritorio del segundo ejersicio. (Imagen 12)  
+. Prueba de escritorio del segundo ejersicio. Imagen 12 
 
 <div align="center">
 <img width="431" height="80" alt="image" src="https://github.com/user-attachments/assets/34bed423-0de2-408b-840f-7187054f5909" />
 </div>
-(Imagen 12)
 
 # **Principales dificultades en la aplicación de los contenidos:**
   
