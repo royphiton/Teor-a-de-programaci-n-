@@ -16,7 +16,7 @@ El lenguaje C es un lenguaje de programación estructurado, muy usado en ingenie
 PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocódigo, una forma intermedia entre lenguaje natural y programación real. Es ideal para aprender lógica antes de programar.
 
 
-. A continuación incluyo un ejemplo de algoritmo trabajado en el lenguage c, este algoritmo busca encontrar el promedio en base a 3 valores. imagen 1
+. A continuación incluyo un ejemplo de algoritmo trabajado en el lenguage c. imagen 1
 
 <div align="center">
 <img width="888" height="461" alt="image" src="https://github.com/user-attachments/assets/fa3665c1-34a2-4669-815f-be80f0cf6335" /> 
@@ -25,7 +25,7 @@ PSeInt es una herramienta educativa que permite escribir algoritmos en pseudocó
 
 - El **pseudocódigo** es una forma intermedia entre el lenguaje natural y el lenguaje de programación, usada para expresar algoritmos sin depender de una sintaxis específica.
   
-. Incluyo un ejemplo de pseudocodigo trabajado en pseint, este algoritmo busca encontrar el promedio en base a 3 valores. imagen 2
+. Incluyo un ejemplo de pseudocodigo trabajado en pseint. imagen 2
 
 <div align="center">
 <img width="622" height="300" alt="image" src="https://github.com/user-attachments/assets/9ac30bbb-ad93-4d05-a2f3-372bcdd5ddc3" /> 
@@ -93,13 +93,22 @@ Imagen 6
 <img width="465" height="138" alt="image" src="https://github.com/user-attachments/assets/cc3e20e6-bed1-4c69-8b02-6a6e3fcc87f0" />
 </div>
 
+## **pruebas de escritorio** 
+
+Prueba de escritorio del primer esjersicio. Imagen 8
+
+<div align="center">
+<img width="510" height="93" alt="image" src="https://github.com/user-attachments/assets/a410f89d-6c1b-431d-bd5d-f8b31cf3c183" />
+</div>
+
+
 
 # **Ejemplo 2**
 
 ## **-Diseña un algoritmo que calcule el área de un triángulo conociendo su base y su altura.**
 
 Primero vamos a definir las variables como reales, luego despejamos la formula de la area la cual es
-base * altura/2 y finalmenre definimos la respuestaa. Imagen 8
+base * altura/2 y finalmenre definimos la respuestaa. Imagen 9
 
 ### **Pseudocódigo (PSeInt):**
 
@@ -109,7 +118,7 @@ base * altura/2 y finalmenre definimos la respuestaa. Imagen 8
 
 ### **Lenguaje c:**
 
-. Traducimos el primer programa a lenguaje c, Imagen 9
+. Traducimos el primer programa a lenguaje c, Imagen 10
 
 <div align="center">
 <img width="714" height="516" alt="image" src="https://github.com/user-attachments/assets/67855365-7eda-4d4e-849c-42ee2d3b4fc5" />
@@ -119,7 +128,7 @@ base * altura/2 y finalmenre definimos la respuestaa. Imagen 8
  
 ### **Respuesta:**
 
-. se muestran evidencias de l trabajado en el lenguaje c. Imagen 10
+. se muestran evidencias de l trabajado en el lenguaje c. Imagen 11
 
 <div align="center">
 <img width="402" height="103" alt="image" src="https://github.com/user-attachments/assets/bd2ce7bd-657b-4308-8630-90ce0191640f" />
@@ -127,13 +136,6 @@ base * altura/2 y finalmenre definimos la respuestaa. Imagen 8
 
 
 ## **pruebas de escritorio** 
-
-Prueba de escritorio del primer esjersicio. Imagen 11
-
-<div align="center">
-<img width="510" height="93" alt="image" src="https://github.com/user-attachments/assets/a410f89d-6c1b-431d-bd5d-f8b31cf3c183" />
-</div>
-
 
 . Prueba de escritorio del segundo ejersicio. Imagen 12 
 
