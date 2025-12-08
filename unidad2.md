@@ -2,11 +2,20 @@
 
 ## 📌 1. Estructuras Condicionales
 
+Las estructuras condicionales son instrucciones que controlan el flujo de un programa. Se utilizan para que el software pueda evaluar expresiones lógicas y decidir qué acciones ejecutar en función de si la condición es verdadera o falsa [1]
+
 ### ✔️ Tipos de estructuras condicionales
 - `if`
+  
+Es una instrucción condicional que permite ejecutar un bloque de código únicamente si una condición lógica se cumple es verdadera. Si la condición no se cumple, el bloque se omite y el programa continúa con la siguiente instrucción.
+
 - `if – else`
-- `if – else` anidados
-- `switch` (C/Java)
+
+Es una instrucción condicional que permite ejecutar un bloque de código si una condición es verdadera y otro bloque diferente si la condición es falsa. Es decir, ofrece dos caminos alternativos en el flujo de un programa .
+  
+- `switch`
+
+Es una instrucción condicional que permite evaluar una variable contra múltiples valores posibles y ejecutar el bloque de código asociado al valor que coincida. Es más ordenada y legible que usar muchos if – else consecutivos, especialmente cuando se trabaja con valores discretos como enteros, caracteres o cadenas [2].
 
 ---
 
@@ -45,14 +54,23 @@ imagen 4
 
 ## 📌 1. Estructuras repititivas 
 
+Las estructuras repetitivas, también llamadas bucles, son herramientas que permiten la ejecución automática y repetida de una o más instrucciones sin necesidad de escribirlas múltiples veces [5]
+
 ✔️ Tipos
 
-for
+- `for`
+  
+Es una instrucción repetitiva que permite ejecutar un bloque de código un número determinado de veces. Se utiliza cuando se conoce de antemano cuántas iteraciones se deben realizar, ya que integra en una sola línea la inicialización de la variable de control, la condición de repetición y el incremento/decremento.
 
-while
+- `While`
 
-do – while
+Es una instrucción repetitiva que permite ejecutar un bloque de código mientras una condición lógica sea verdadera. Se utiliza cuando no se sabe de antemano cuántas veces se repetirá el ciclo, ya que depende de la evaluación continua de la condición.
 
+- `do while`
+
+Es una instrucción repetitiva que permite ejecutar un bloque de código al menos una vez, y luego repetirlo mientras la condición lógica se mantenga verdadera. La diferencia principal con while es que la condición se evalúa después de ejecutar el bloque, garantizando así una primera ejecución [3].
+
+  
 ### **Ejercicio 1: Imprimir números del 1 al 10**
 
 **Diagrama de flujo:** 
@@ -143,46 +161,17 @@ https://drive.google.com/file/d/1YBD4tNOfzSDXQy-vf0c-QGRjpq5qNRe2/view?usp=drive
 
 ### AA 1. Diferencias entre los tipos de estructuras condicionales
 
-https://drive.google.com/file/d/1K7S5iuKzwNj7vhRIIpf6is-g47wMGhZv/view?usp=drive_link
+https://drive.google.com/file/d/1o5vitMPxmFPQyI-HhqexjTzUY-uKzNnG/view?usp=sharing
 
 ### AA 2. Cuadro comparativo entre las estructuras repetitivas
 
-https://drive.google.com/file/d/1I0Dl6GvfTexD-CWFzusTQPJcB2hOH70o/view?usp=sharing
+https://drive.google.com/file/d/1QUWhrvEcJBnGVRTjCWUJvYK_8kRvMKlj/view?usp=sharing
 
 ### Portafolio
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://drive.google.com/file/d/1zMa-Ggl0gTF5aTuobaMlC5uoO7vj8DVe/view?usp=sharing
 
 
 [inicio](index.md)
+
+
