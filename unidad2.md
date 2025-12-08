@@ -103,9 +103,13 @@ imgen 8
 
 ### Diagrama de flujo:
 
+imagen 9
+
 <img width="481" height="596" alt="image" src="https://github.com/user-attachments/assets/b5382743-42d7-4b85-baec-e6ecb49cb523" />
 
 ### Código en C:
+
+imagen 10 
 
 <img width="358" height="377" alt="image" src="https://github.com/user-attachments/assets/f6803db2-8370-495b-bebe-a5ba64c066c7" />
 
@@ -126,13 +130,13 @@ Si falla 3 veces: "Cuenta bloqueada"
 
 ### Diagrama de flujo:
 
-imagen 9
+imagen 11
 
 <img width="724" height="705" alt="image" src="https://github.com/user-attachments/assets/831676dd-1ded-4f34-ade4-aded6e68ecba" />
 
 ### Phyton:
 
-imagen 10 
+imagen 12 
 
 <img width="790" height="429" alt="image" src="https://github.com/user-attachments/assets/ed0b133f-1a8d-40ae-b48e-047caeb7cb9d" />
 
