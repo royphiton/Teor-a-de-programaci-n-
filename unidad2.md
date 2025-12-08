@@ -25,13 +25,13 @@ Es una instrucción condicional que permite evaluar una variable contra múltipl
 
 ### **Ejercicio 1: Determinar si un número es positivo o negativo**
 
-**Diagrama de flujo:** 
+### Diagrama de flujo:
 
 imagen 1
 
 <img width="1079" height="684" alt="image" src="https://github.com/user-attachments/assets/bee99ad0-056c-4259-b02b-e091d204c7b6" />
 
-**Código en C:**
+### Código en C:
 
 imagen 2 
 
@@ -40,13 +40,13 @@ imagen 2
 
 ### **Ejercicio 2: Calificacion de nota**
 
-**Diagrama de flujo:** 
+### Diagrama de flujo: 
 
 imagen 3 
 
 <img width="535" height="630" alt="image" src="https://github.com/user-attachments/assets/b1eb35ba-4f26-4fcc-acc2-b62fb79f8df5" />
 
-**Código en C:**
+### Código en C:
 
 imagen 4
 
@@ -71,33 +71,45 @@ Es una instrucción repetitiva que permite ejecutar un bloque de código mientra
 Es una instrucción repetitiva que permite ejecutar un bloque de código al menos una vez, y luego repetirlo mientras la condición lógica se mantenga verdadera. La diferencia principal con while es que la condición se evalúa después de ejecutar el bloque, garantizando así una primera ejecución [3].
 
   
-### **Ejercicio 1: Imprimir números del 1 al 10**
+### **Ejercicio 1, for: Imprimir números del 1 al 10**
 
-**Diagrama de flujo:** 
+### Diagrama de flujo:
 
 imagen 5 
 
 <img width="572" height="534" alt="image" src="https://github.com/user-attachments/assets/8846a9d7-9e50-45c0-8875-d2af5311d523" />
 
-**Código en C:**
+### Código en C:
 
 imagen 6
 
 <img width="421" height="216" alt="image" src="https://github.com/user-attachments/assets/bda2e18d-884d-4a2e-a2d4-a20183695ac8" />
 
-### **Ejercicio 2: Sumar números hasta que el usuario ingrese 0**
+### **Ejercicio 2, while: Sumar números hasta que el usuario ingrese 0**
 
-**Diagrama de flujo:** 
+### Diagrama de flujo:
 
 imagen 7
 
 <img width="379" height="686" alt="image" src="https://github.com/user-attachments/assets/28bf761f-5456-4583-b224-237500afb91a" />
 
-**Código en C:**
+### Código en C:
 
 imgen 8
 
 <img width="540" height="386" alt="image" src="https://github.com/user-attachments/assets/aa28b735-cf5f-42c2-b721-c586ff77697c" />
+
+### **Ejercicio 3, do while: Contar del 1 al 15** 
+
+### Diagrama de flujo:
+
+<img width="481" height="596" alt="image" src="https://github.com/user-attachments/assets/b5382743-42d7-4b85-baec-e6ecb49cb523" />
+
+### Código en C:
+
+<img width="358" height="377" alt="image" src="https://github.com/user-attachments/assets/f6803db2-8370-495b-bebe-a5ba64c066c7" />
+
+
 
 ## 📌3. Ejercicio Integrador (Condicional + Repetitiva)
 
@@ -112,13 +124,13 @@ Crear un programa que pida una contraseña al usuario. Tendrá 3 intentos.
 Si acierta: "Acceso permitido"
 Si falla 3 veces: "Cuenta bloqueada"
 
-**Diagrama de flujo:** 
+### Diagrama de flujo:
 
 imagen 9
 
 <img width="724" height="705" alt="image" src="https://github.com/user-attachments/assets/831676dd-1ded-4f34-ade4-aded6e68ecba" />
 
-**Phyton:** 
+### Phyton:
 
 imagen 10 
 
