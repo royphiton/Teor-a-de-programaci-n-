@@ -25,6 +25,8 @@ Es una instrucción condicional que permite evaluar una variable contra múltipl
 
 ### **Ejercicio 1: Determinar si un número es positivo o negativo**
 
+- A continuacion incluyo un ejersicio que verifica si un numero es positivo o negativo usando estructuras condicionales. 
+
 ### Diagrama de flujo:
 
 imagen 1
@@ -39,6 +41,8 @@ imagen 2
 
 
 ### **Ejercicio 2: Calificacion de nota**
+
+- Asi mismo usando estructuras condicionales podemos calificar notas, si es mayor a 7 aprobado y si es menor reprobado. 
 
 ### Diagrama de flujo: 
 
@@ -73,6 +77,8 @@ Es una instrucción repetitiva que permite ejecutar un bloque de código al meno
   
 ### **Ejercicio 1, for: Imprimir números del 1 al 10**
 
+En este ejersicio se uso estructuras repititivas para contar de luno al 10. 
+
 ### Diagrama de flujo:
 
 imagen 5 
@@ -86,6 +92,9 @@ imagen 6
 <img width="421" height="216" alt="image" src="https://github.com/user-attachments/assets/bda2e18d-884d-4a2e-a2d4-a20183695ac8" />
 
 ### **Ejercicio 2, while: Sumar números hasta que el usuario ingrese 0**
+
+-En este ejersicio se suman los numero usando la estructura while y si se ingresa el 0 el programa finaliza la ejecución. 
+
 
 ### Diagrama de flujo:
 
@@ -123,10 +132,6 @@ Crear un programa que pida una contraseña al usuario. Tendrá 3 intentos.
 Si acierta: "Acceso permitido"
 Si falla 3 veces: "Cuenta bloqueada"
 
-
-Crear un programa que pida una contraseña al usuario. Tendrá 3 intentos.
-Si acierta: "Acceso permitido"
-Si falla 3 veces: "Cuenta bloqueada"
 
 ### Diagrama de flujo:
 
