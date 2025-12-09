@@ -13,3 +13,7 @@
 [5] Lucidchart, “¿Qué es un diagrama de flujo y cómo hacerlo?,” 2025. [Online]. Available: https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo
 
 [6] KeepCoding, “Programación en bloques: ¿Qué es y cómo aprender?,” 2025. [Online]. Available: https://keepcoding.io/blog/que-es-la-programacion-en-bloques/
+
+<p align="center">
+  <a href="index.md">inicio</a>
+</p>
