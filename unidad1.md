@@ -191,4 +191,6 @@ https://drive.google.com/file/d/1Z_zcQeeNtVEO4CovKDhOZhinbrl6AKjJ/view?usp=drive
 https://drive.google.com/file/d/1qP1Az6xnO3qMfgy9hT_RSOjoLrtZbbGD/view?usp=sharing 
 
 
-[inicio](index.md)
+<p align="center">
+  <a href="index.md">inicio</a>
+</p>
