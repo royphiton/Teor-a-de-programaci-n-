@@ -65,14 +65,25 @@ Las estructuras repetitivas, también llamadas bucles, son herramientas que perm
 - `for`
   
 Es una instrucción repetitiva que permite ejecutar un bloque de código un número determinado de veces. Se utiliza cuando se conoce de antemano cuántas iteraciones se deben realizar, ya que integra en una sola línea la inicialización de la variable de control, la condición de repetición y el incremento/decremento.
+imagen 5
+
+<img width="1343" height="1814" alt="image" src="https://github.com/user-attachments/assets/e4070826-ad5c-43bb-9c2f-eea480d93dae" />
+
 
 - `While`
 
 Es una instrucción repetitiva que permite ejecutar un bloque de código mientras una condición lógica sea verdadera. Se utiliza cuando no se sabe de antemano cuántas veces se repetirá el ciclo, ya que depende de la evaluación continua de la condición.
+imagen 6 
+
+<img width="474" height="449" alt="image" src="https://github.com/user-attachments/assets/265598c7-32c1-4998-8a8d-c8a96cbb4175" />
+
 
 - `do while`
 
 Es una instrucción repetitiva que permite ejecutar un bloque de código al menos una vez, y luego repetirlo mientras la condición lógica se mantenga verdadera. La diferencia principal con while es que la condición se evalúa después de ejecutar el bloque, garantizando así una primera ejecución [3].
+imagen 7
+
+<img width="500" height="378" alt="image" src="https://github.com/user-attachments/assets/2c29cfd1-9138-4292-a57d-49ffee8ae764" />
 
   
 ### **Ejercicio 1, for: Imprimir números del 1 al 10**
@@ -81,13 +92,13 @@ En este ejersicio se uso estructuras repititivas para contar de luno al 10.
 
 ### Diagrama de flujo:
 
-imagen 5 
+imagen 8
 
 <img width="572" height="534" alt="image" src="https://github.com/user-attachments/assets/8846a9d7-9e50-45c0-8875-d2af5311d523" />
 
 ### Código en C:
 
-imagen 6
+imagen 9
 
 <img width="421" height="216" alt="image" src="https://github.com/user-attachments/assets/bda2e18d-884d-4a2e-a2d4-a20183695ac8" />
 
@@ -98,13 +109,13 @@ imagen 6
 
 ### Diagrama de flujo:
 
-imagen 7
+imagen 10
 
 <img width="379" height="686" alt="image" src="https://github.com/user-attachments/assets/28bf761f-5456-4583-b224-237500afb91a" />
 
 ### Código en C:
 
-imgen 8
+imgen 11
 
 <img width="540" height="386" alt="image" src="https://github.com/user-attachments/assets/aa28b735-cf5f-42c2-b721-c586ff77697c" />
 
@@ -112,13 +123,13 @@ imgen 8
 
 ### Diagrama de flujo:
 
-imagen 9
+imagen 12
 
 <img width="481" height="596" alt="image" src="https://github.com/user-attachments/assets/b5382743-42d7-4b85-baec-e6ecb49cb523" />
 
 ### Código en C:
 
-imagen 10 
+imagen 13
 
 <img width="358" height="377" alt="image" src="https://github.com/user-attachments/assets/f6803db2-8370-495b-bebe-a5ba64c066c7" />
 
@@ -135,13 +146,13 @@ Si falla 3 veces: "Cuenta bloqueada"
 
 ### Diagrama de flujo:
 
-imagen 11
+imagen 14
 
 <img width="724" height="705" alt="image" src="https://github.com/user-attachments/assets/831676dd-1ded-4f34-ade4-aded6e68ecba" />
 
 ### Phyton:
 
-imagen 12 
+imagen 15
 
 <img width="790" height="429" alt="image" src="https://github.com/user-attachments/assets/ed0b133f-1a8d-40ae-b48e-047caeb7cb9d" />
 
