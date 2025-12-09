@@ -192,7 +192,11 @@ https://drive.google.com/file/d/1QUWhrvEcJBnGVRTjCWUJvYK_8kRvMKlj/view?usp=shari
 
 https://drive.google.com/file/d/1zMa-Ggl0gTF5aTuobaMlC5uoO7vj8DVe/view?usp=sharing
 
+---
 
-[inicio](index.md)
+<p align="center">
+  <a href="index.md">inicio</a>
+</p>
+
 
 
