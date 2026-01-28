@@ -1,4 +1,4 @@
-# 📘 Portafolio – Modularidad y Arreglos: 
+# <p align="center">📘 Portafolio – Modularidad y Arreglos: 
 
 ### <p align="center">📌 1.  Modularidad 
 La modularidad es un principio de diseño en programación que consiste en dividir un programa en módulos o funciones independientes, cada uno con una responsabilidad específica.
