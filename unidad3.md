@@ -30,13 +30,13 @@ Es como si prestaras una fotocopia de tu cuaderno: puedes rayar la copia, pero e
 
 imagen 1
 
-<img width="615" height="398" alt="image" src="https://github.com/user-attachments/assets/b2190255-b261-464c-a27b-e389210585a1" />
+<p align="center"><img width="615" height="398" alt="image" src="https://github.com/user-attachments/assets/b2190255-b261-464c-a27b-e389210585a1" />
 
 ## Respuesta: 
 
 imagen 2
 
-<img width="443" height="81" alt="image" src="https://github.com/user-attachments/assets/01f0752a-5bba-4244-9294-722fba3e7c4a" />
+<p align="center"><img width="443" height="81" alt="image" src="https://github.com/user-attachments/assets/01f0752a-5bba-4244-9294-722fba3e7c4a" />
 
 ## Por referencia: 
 
@@ -55,15 +55,15 @@ Es como si prestaras tu cuaderno original: si alguien lo raya, tu cuaderno queda
 
 imagen 3
 
-<img width="771" height="408" alt="image" src="https://github.com/user-attachments/assets/e0d3c495-6c38-4ba2-a4ea-a330f3d5a046" />
+<p align="center"><img width="771" height="408" alt="image" src="https://github.com/user-attachments/assets/e0d3c495-6c38-4ba2-a4ea-a330f3d5a046" />
 
 ## Respuesta: 
 
 imagen 4
 
-<img width="812" height="128" alt="image" src="https://github.com/user-attachments/assets/40af1dd8-0ba7-47a6-9500-22c285c36763" />
+<p align="center"><img width="812" height="128" alt="image" src="https://github.com/user-attachments/assets/40af1dd8-0ba7-47a6-9500-22c285c36763" />
 
-### <p align="center">📌 1.  Arreglos: 
+### <p align="center">📌 Arreglos: 
 
 Un arreglo es una estructura de datos que permite almacenar varios elementos del mismo tipo en posiciones consecutivas de memoria [3].
 
@@ -83,7 +83,7 @@ Un arreglo es una estructura de datos que permite almacenar varios elementos del
 
 🔹Útiles para recorrer datos con ciclos (for, while).
 
-## 1.  <p align="center">TIPOS DE ARREGLOS</p>
+## <p align="center">TIPOS DE ARREGLOS</p>
 
 ## 1. Arreglo Unidimensional: 
 
@@ -95,13 +95,13 @@ Aquí numeros es una lista de 5 enteros. Cada posición se accede con un índice
 
 imagen 5 
 
-<img width="733" height="343" alt="image" src="https://github.com/user-attachments/assets/2d7639bf-0013-4a50-a995-d537e6e0dd70" />
+<p align="center"><img width="733" height="343" alt="image" src="https://github.com/user-attachments/assets/2d7639bf-0013-4a50-a995-d537e6e0dd70" />
 
 ## Respuesta: 
 
 imagen 6 
 
-<img width="761" height="255" alt="image" src="https://github.com/user-attachments/assets/8715174e-0461-4a78-ab31-e8e7ace5db01" />
+<p align="center"><img width="761" height="255" alt="image" src="https://github.com/user-attachments/assets/8715174e-0461-4a78-ab31-e8e7ace5db01" />
 
 ## 2. Arreglo Bidimensional (matriz)
 
@@ -113,13 +113,13 @@ Aquí matriz tiene 2 filas y 3 columnas. Se accede con dos índices: matriz[0][0
 
 imagen 7 
 
-<img width="827" height="474" alt="image" src="https://github.com/user-attachments/assets/029312fc-c7d7-4d93-829a-809a5710fa03" />
+<p align="center"><img width="827" height="474" alt="image" src="https://github.com/user-attachments/assets/029312fc-c7d7-4d93-829a-809a5710fa03" />
 
 ## Respuesta: 
 
 imagen 8 
 
-<img width="828" height="177" alt="image" src="https://github.com/user-attachments/assets/86795f88-3e4e-4032-a050-3a63bae7232c" />
+<p align="center"><img width="828" height="177" alt="image" src="https://github.com/user-attachments/assets/86795f88-3e4e-4032-a050-3a63bae7232c" />
 
 ## 3. Arreglo Multidimensional (más de 2 dimensiones)
 
@@ -131,13 +131,13 @@ Aquí cubo es un arreglo de 3 dimensiones (como un cubo de datos). Se accede con
 
 imagen 9
 
-<img width="837" height="439" alt="image" src="https://github.com/user-attachments/assets/d18384f5-270a-4cd3-9939-bdcc62399b84" />
+<p align="center"><img width="837" height="439" alt="image" src="https://github.com/user-attachments/assets/d18384f5-270a-4cd3-9939-bdcc62399b84" />
 
 ## Respuesta: 
 
 imagen 10
 
-<img width="795" height="275" alt="image" src="https://github.com/user-attachments/assets/852c69d6-d2c4-4447-a0f4-b65eb132abc2" />
+<p align="center"><img width="795" height="275" alt="image" src="https://github.com/user-attachments/assets/852c69d6-d2c4-4447-a0f4-b65eb132abc2" />
 
 ## <p align="center">Principales dificultades en la aplicación 
 de los contenidos. </p>
