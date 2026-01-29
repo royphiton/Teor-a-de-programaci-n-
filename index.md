@@ -1,4 +1,4 @@
-# 🎓 **Universidad Nacional de Loja**  
+# <p align="center">🎓 **Universidad Nacional de Loja**  
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## 📁 Portafolio Digital de Aprendizaje
+## <p align="center">📁 Portafolio Digital de Aprendizaje
 
 ### 📘 Unidad 1:
 Fundamentos de la programación
@@ -33,7 +33,7 @@ Lenguajes y paradigmas
 Aplicaciones prácticas y algoritmos
 [unidad 3](unidad3.md)
 
-## 🤖 IA Regenerativa
+## <p align="center">🤖 IA Regenerativa
 
 -  ***Declaracion de IA:***  
 
